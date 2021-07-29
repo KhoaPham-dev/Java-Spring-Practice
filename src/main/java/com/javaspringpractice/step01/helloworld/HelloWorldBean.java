@@ -1,4 +1,4 @@
-package com.javaspringpractice.step01;
+package com.javaspringpractice.step01.helloworld;
 
 public class HelloWorldBean {
     private String string;
